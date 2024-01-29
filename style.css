@@ -1,0 +1,15 @@
+#header_div{
+    background-color: lightblue;
+    font-style: inherit;
+}
+#onefooter{
+    size: 50px;
+    position: fixed;
+    bottom: 0;
+    font-size: large;
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px grey;
+}
